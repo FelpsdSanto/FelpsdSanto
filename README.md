@@ -6,8 +6,6 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos pessoais
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, especialmente em **desenvolvimento de software** e **redes de computadores**. Gosto de criar soluções simples e eficientes que podem ajudar outras pessoas. 
 
-Atualmente, estou trabalhando em um **cardápio digital** como parte do meu **projeto integrador**, além de estudar sobre **programação web** e **interfaces de usuário**.
-
 - 🧑‍💻 **Linguagens que mais utilizo**: JavaScript, HTML, CSS, PHP, Python
 - 🖥️ **Tecnologias e Ferramentas**: Git, GitHub, MySQL, Node.js, React
 - 🎯 **Objetivo no GitHub**: Compartilhar meus projetos acadêmicos, ferramentas de desenvolvimento e participar de projetos colaborativos.
