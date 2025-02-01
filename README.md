@@ -14,7 +14,7 @@ Atualmente, estou trabalhando em um **cardápio digital** como parte do meu **pr
 
 ## Projetos em Destaque
 
-### 2. **[AluGames - Sistema de Aluguel de Boardgames](https://github.com/FelpsdSanto/ALUGAMES.git)**
+**[AluGames - Sistema de Aluguel de Boardgames](https://github.com/FelpsdSanto/ALUGAMES.git)**
 Sistema de aluguel de jogos de tabuleiro. Ele permite aos usuários visualizar jogos, realizar o aluguel e devolver, alterando dinamicamente o estado do jogo e do botão de ação (Alugar/Devolver).
 
 ## Contribuições
