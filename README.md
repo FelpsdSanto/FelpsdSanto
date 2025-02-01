@@ -26,7 +26,7 @@ Atualmente, estou buscando oportunidades para:
 
 ## Como me encontrar
 
-- 💼 **LinkedIn**: [linkedin.com/in/felipe-santos-a514b415a/](www.linkedin.com/in/felipe-santos-a514b415a)
+- 💼 **LinkedIn**:(www.linkedin.com/in/felipe-santos-a514b415a)
 - 📧 **Email**: felipe.santospinheiro@gmail.com
 
 ## Tecnologias que eu gosto de usar
