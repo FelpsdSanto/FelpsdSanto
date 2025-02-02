@@ -14,6 +14,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tec
 
 **[AluGames - Sistema de Aluguel de Boardgames](https://github.com/FelpsdSanto/ALUGAMES.git)**
 Sistema de aluguel de jogos de tabuleiro. Ele permite aos usuários visualizar jogos, realizar o aluguel e devolver, alterando dinamicamente o estado do jogo e do botão de ação (Alugar/Devolver).
+
+
 **[Carrinho de compras on-line](https://github.com/FelpsdSanto/carrinho-compras.git)**
 Este projeto é um **sistema simples de carrinho de compras**, desenvolvido em **HTML, CSS e JavaScript**. Ele permite adicionar produtos ao carrinho, visualizar a lista de itens selecionados e calcular automaticamente o valor total da compra.
 
