@@ -40,7 +40,10 @@ Atualmente, estou buscando oportunidades para:
 
 ## Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FelpsdSanto&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelpsdSanto&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelpsdSanto&layout=compact&theme=radical)
+
+
 
 ---
 
