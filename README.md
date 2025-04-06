@@ -12,6 +12,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tec
 
 ## Projetos em Destaque
 
+**[MathAgenda - Sistema de Agendamento de Aulas Particulares](https://github.com/FelpsdSanto/MathAgenda)**
+O **MathAgenda** é um sistema de agendamento de aulas que permite que alunos escolham horários disponíveis e agendem aulas com uma professora de matemática. A professora pode visualizar todas as aulas marcadas e exportá-las em formato CSV. Desenvolvido com HTML, CSS e JavaScript, utilizando LocalStorage para persistência dos dados.
+
 **[AluGames - Sistema de Aluguel de Boardgames](https://github.com/FelpsdSanto/ALUGAMES.git)**
 Sistema de aluguel de jogos de tabuleiro. Ele permite aos usuários visualizar jogos, realizar o aluguel e devolver, alterando dinamicamente o estado do jogo e do botão de ação (Alugar/Devolver).
 
@@ -30,7 +33,7 @@ Atualmente, estou buscando oportunidades para:
 
 ## Como me encontrar
 
-- 💼 **LinkedIn**:(www.linkedin.com/in/felipe-santos-a514b415a)
+- 💼 **LinkedIn**: [Felipe dos Santos](https://www.linkedin.com/in/felipe-santos-a514b415a)
 - 📧 **Email**: felipe.santospinheiro@gmail.com
 
 ## Tecnologias que eu gosto de usar
