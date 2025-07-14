@@ -1,53 +1,56 @@
-# Olá, sou Felipe dos Santos! 👋
+# 👋 Olá, sou Felipe dos Santos!
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos pessoais e acadêmicos, onde compartilho meu aprendizado e contribuições em **Análise e Desenvolvimento de Sistemas**.
 
-## Sobre Mim
+## 🧠 Sobre Mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, especialmente em **desenvolvimento de software** e **redes de computadores**. Gosto de criar soluções simples e eficientes que podem ajudar outras pessoas.
 
-- 🧑‍💻 **Linguagens que mais utilizo**: JavaScript, HTML, CSS, PHP, Python
-- 🖥️ **Tecnologias e Ferramentas**: Git, GitHub, MySQL, Node.js, React
+- 🧑‍💻 **Linguagens que mais utilizo**: JavaScript, HTML, CSS, PHP, Python  
+- 🖥️ **Tecnologias e Ferramentas**: Git, GitHub, MySQL, Node.js, React  
 - 🎯 **Objetivo no GitHub**: Compartilhar meus projetos acadêmicos, ferramentas de desenvolvimento e participar de projetos colaborativos.
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-**[MathAgenda - Sistema de Agendamento de Aulas Particulares](https://github.com/FelpsdSanto/MathAgenda)**
+**[Solidariedade em Ação - Sistema de Apoio a Famílias e Doações](https://github.com/FelpsdSanto/solidariedade-em-acao)**  
+O **Solidariedade em Ação** é um sistema criado como **projeto integrador da graduação em Análise e Desenvolvimento de Sistemas pela UNISAL**. Ele auxilia uma associação que presta apoio a famílias de baixa renda e oferece atividades para o desenvolvimento de crianças. O sistema permite **cadastrar famílias, controlar doações, gerar relatórios** e está sendo aprimorado com **dashboard, envio de lembretes e área para voluntários**. Utiliza **Node.js, MongoDB, HTML, CSS e JavaScript**.
+
+**[MathAgenda - Sistema de Agendamento de Aulas Particulares](https://github.com/FelpsdSanto/MathAgenda)**  
 O **MathAgenda** é um sistema de agendamento de aulas que permite que alunos escolham horários disponíveis e agendem aulas com uma professora de matemática. A professora pode visualizar todas as aulas marcadas e exportá-las em formato CSV. Desenvolvido com HTML, CSS e JavaScript, utilizando LocalStorage para persistência dos dados.
 
-**[AluGames - Sistema de Aluguel de Boardgames](https://github.com/FelpsdSanto/ALUGAMES.git)**
+**[AluGames - Sistema de Aluguel de Boardgames](https://github.com/FelpsdSanto/ALUGAMES.git)**  
 Sistema de aluguel de jogos de tabuleiro. Ele permite aos usuários visualizar jogos, realizar o aluguel e devolver, alterando dinamicamente o estado do jogo e do botão de ação (Alugar/Devolver).
 
-**[Gestão de Alunos - Sistema de Gestão de Alunos com MySQL](https://github.com/FelpsdSanto/gestao-alunos.git)**
+**[Gestão de Alunos - Sistema de Gestão de Alunos com MySQL](https://github.com/FelpsdSanto/gestao-alunos.git)**  
 Este projeto é um **sistema de gerenciamento de alunos, disciplinas e professores**, com um banco de dados MySQL. Ele permite registrar alunos, disciplinas, relacionamentos entre alunos e disciplinas, e atribuir professores às disciplinas que os alunos estão matriculados.
 
-**[Carrinho de compras on-line](https://github.com/FelpsdSanto/carrinho-compras.git)**
+**[Carrinho de compras on-line](https://github.com/FelpsdSanto/carrinho-compras.git)**  
 Este projeto é um **sistema simples de carrinho de compras**, desenvolvido em **HTML, CSS e JavaScript**. Ele permite adicionar produtos ao carrinho, visualizar a lista de itens selecionados e calcular automaticamente o valor total da compra.
 
-## Contribuições
+## 🤝 Contribuições
 
 Atualmente, estou buscando oportunidades para:
 - Contribuir em projetos de código aberto.
 - Colaborar em projetos de desenvolvimento de software, especialmente na área de **web**.
 - Aprender mais sobre **inteligência artificial** e **desenvolvimento mobile**.
 
-## Como me encontrar
+## 📬 Como me encontrar
 
-- 💼 **LinkedIn**: [Felipe dos Santos](https://www.linkedin.com/in/felipe-santos-a514b415a)
+- 💼 **LinkedIn**: [Felipe dos Santos](https://www.linkedin.com/in/felipe-santos-a514b415a)  
 - 📧 **Email**: felipe.santospinheiro@gmail.com
 
-## Tecnologias que eu gosto de usar
+## 💻 Tecnologias que eu gosto de usar
 
-- Frontend: React, Vue, HTML, CSS, JavaScript
-- Backend: Node.js, PHP, MySQL, MongoDB
-- Ferramentas: Git, GitHub, Visual Studio Code, Docker
-- Outros: Docker, Nginx, Jenkins, Python
+- **Frontend**: React, Vue, HTML, CSS, JavaScript  
+- **Backend**: Node.js, PHP, MySQL, MongoDB  
+- **Ferramentas**: Git, GitHub, Visual Studio Code, Docker  
+- **Outros**: Docker, Nginx, Jenkins, Python
 
-## Estatísticas
+## 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelpsdSanto&show_icons=true&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelpsdSanto&show_icons=true&count_private=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelpsdSanto&layout=compact&theme=radical)
 
 ---
 
-Obrigado por visitar meu perfil! Se tiver algum projeto interessante ou alguma sugestão, fique à vontade para me chamar. Vamos colaborar! 😄
+Obrigado por visitar meu perfil! Se tiver algum projeto interessante ou alguma sugestão, fique à vontade para me chamar. **Vamos colaborar!** 😄
