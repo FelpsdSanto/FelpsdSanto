@@ -12,7 +12,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tec
 
 ## 🚀 Projetos em Destaque
 
-**[Solidariedade em Ação - Sistema de Apoio a Famílias e Doações](https://github.com/FelpsdSanto/solidariedade-em-acao)**  
+**[Solidariedade em Ação - Sistema de Apoio a Famílias e Doações](https://github.com/FelpsdSanto/solidariedade-em-acao6)**  
 O **Solidariedade em Ação** é um sistema criado como **projeto integrador da graduação em Análise e Desenvolvimento de Sistemas pela UNISAL**. Ele auxilia uma associação que presta apoio a famílias de baixa renda e oferece atividades para o desenvolvimento de crianças. O sistema permite **cadastrar famílias, controlar doações, gerar relatórios** e está sendo aprimorado com **dashboard, envio de lembretes e área para voluntários**. Utiliza **Node.js, MongoDB, HTML, CSS e JavaScript**.
 
 **[MathAgenda - Sistema de Agendamento de Aulas Particulares](https://github.com/FelpsdSanto/MathAgenda)**  
